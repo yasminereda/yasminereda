@@ -1,10 +1,11 @@
 # 💫 About Me:
 
 Front-End Developer with hands-on experience building responsive websites using  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, and WordPress (Elementor).
 
-- 🔭 Working on Front-End developer
-- 💬 Ask me about HTML, CSS, JavaScript
+- 🔭 Working on Front-End & WordPress projects
+- 🌱 Currently learning PHP for WordPress customization 
+- 💬 Ask me about HTML, CSS, JavaScript, WordPress  
 
 
 ## 🌐 Socials:
